@@ -4,7 +4,7 @@ Blogpost: https://madflex.de/use-pico-track-time
 
 ### Setup
 
-Copy app/.secrets.template to app/.secrets and fill in your configuration from <https://toggl.com>.
+Copy .secrets.template to .secrets and fill in your configuration from <https://toggl.com>.
 
 Install the requirements:
 ```
