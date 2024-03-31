@@ -6,6 +6,8 @@ Blogpost: https://madflex.de/use-pico-track-time
 
 Copy .secrets.template to .secrets and fill in your configuration from <https://toggl.com>.
 
+Set the ip-address of the Flask instance before uploading the pico/main.py to the Pico.
+
 Install the requirements:
 ```
 pip install -r requirements.txt

@@ -6,7 +6,7 @@ from urequests import request
 
 
 def call_flask(path):
-    r = request("GET", f"http://192.168.0.120:5000/{path}")
+    r = request("GET", f"http://<ip-of-the-flask-server>:5000/{path}")
     return r.json()
 
 
